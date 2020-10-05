@@ -9,4 +9,4 @@ new Vue({
             this.message = new Date().toLocaleString();
         }
     }
-})
+});
